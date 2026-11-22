@@ -2,10 +2,13 @@
 
 **Roll No:** BCSF24A037
 
-## Submission information (complete after deployment)
-- **MCP server URL:** `PENDING - deploy server and paste URL here`
-- **API key:** `Not required for a public Render service; otherwise set FASTMCP_KEY`
-- **GitHub repository (server code):** `PENDING - paste GitHub URL here`
+
+## Submission information
+
+- **MCP server URL:** https://cgpa-guider-bcsf24a037.fastmcp.app/mcp
+- **API key:** Required. Configure the FastMCP Bearer token for the MCP client. Do not publish the actual secret in a public GitHub repository.
+- **GitHub repository (server code):** https://github.com/Abdullah-AminG/BCSF24A037-Assignment3
+
 
 ## Project structure
 - `server/`: FastMCP server and six shared CGPA tools.
