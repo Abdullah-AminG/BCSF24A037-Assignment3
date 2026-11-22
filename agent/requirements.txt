@@ -1,0 +1,6 @@
+langchain[mcp]>=1.4.0
+langgraph>=1.0.0
+langchain-groq>=1.0.0
+langgraph-checkpoint-sqlite>=3.0.0
+aiosqlite>=0.20.0
+python-dotenv>=1.0.0
